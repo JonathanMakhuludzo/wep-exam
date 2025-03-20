@@ -1,0 +1,74 @@
+*{
+    margin:0;
+}
+.main{
+    justify-content: center;
+    align-items: center;
+
+}
+.si{
+    color:white;
+    background-color: black;
+    border-radius: 10px;
+    align-items: center;
+
+}
+.sign{
+    color: white;
+}
+.b{
+    background-color: antiquewhite;
+    color: blue;
+}
+.icons{
+    color: blue;
+    padding:10px;
+    width: 5rem;
+    height: 2rem;
+    align-items: center;
+}
+.achor{
+
+}
+.dow{
+ color: white;
+ background-color: blueviolet;
+ border-radius: 7px;
+}
+.contact{
+  display:flex;
+  flex-flow: row;
+}
+.info{
+
+}
+.form{
+   
+}
+.send{
+    color: white;
+    background-color: blue;
+    width:7rem;
+    height: 2rem;
+
+}
+.table{
+    border-color: #979696;
+
+
+}
+table th{
+    background-color: #c223bc;
+}
+table tr{
+    background-color: #ffffff,#f1f1fd;
+
+    
+}
+.more{
+    color: blue;
+}
+.last{
+    display: flex;
+    flex-flow: row;
+}
